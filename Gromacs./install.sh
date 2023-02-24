@@ -3,7 +3,7 @@ set -e
 #Gromacs Installation Script.
 
 
-echo "-------------------------------"
+echo "--------------------------------"
 
 
 sudo apt update -y
