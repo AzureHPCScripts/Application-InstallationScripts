@@ -31,4 +31,4 @@ echo "Acusolve application Installation has been started"
 
 ./$PACKAGE -i silent -f "$PACKAGE_DIR/$Property_Filename" -DACCEPT_EULA=YES
 
-echo "Altair Acusolve apllication has been installed succeessfully"
+echo "Altair Acusolve application has been installed succeessfully"
